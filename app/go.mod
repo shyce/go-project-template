@@ -1,3 +1,3 @@
 module github.com/shyce/go-project-template
 
-go 1.15
+go 1.17
